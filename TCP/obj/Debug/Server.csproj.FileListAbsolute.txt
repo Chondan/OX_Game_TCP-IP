@@ -1,0 +1,9 @@
+C:\Users\Asus\Desktop\CHONDAN\C#\TCP\TCP\bin\Debug\TCP.exe.config
+C:\Users\Asus\Desktop\CHONDAN\C#\TCP\TCP\bin\Debug\TCP.exe
+C:\Users\Asus\Desktop\CHONDAN\C#\TCP\TCP\bin\Debug\TCP.pdb
+C:\Users\Asus\Desktop\CHONDAN\C#\TCP\TCP\obj\Debug\TCP.Server.resources
+C:\Users\Asus\Desktop\CHONDAN\C#\TCP\TCP\obj\Debug\TCP.Properties.Resources.resources
+C:\Users\Asus\Desktop\CHONDAN\C#\TCP\TCP\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\CHONDAN\C#\TCP\TCP\obj\Debug\TCP.exe
+C:\Users\Asus\Desktop\CHONDAN\C#\TCP\TCP\obj\Debug\TCP.pdb
+C:\Users\Asus\Desktop\CHONDAN\C#\TCP\TCP\obj\Debug\Server.csprojAssemblyReference.cache
